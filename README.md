@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**idiosyncratic4/idiosyncratic4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Django.
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nandinisharma3120@gmail.com / https://www.linkedin.com/in/nansha3120/         /https://twitter.com/Nandini3120
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Watch me here:-https://www.youtube.com/playlist?list=PLCGwWub36fNzw2POnwmTRq4HU19nvEsUD
--->
