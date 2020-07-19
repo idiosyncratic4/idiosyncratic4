@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C, C++, Python, Azure, Visual Studio,Android Studio,.net.
 - 📫 How to reach me: [Email](nandinisharma3120@gmail.com)/[LinkedIn](https://www.linkedin.com/in/nansha3120/)/[Twitter](https://twitter.com/Nandini3120)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Watch me here:-https://www.youtube.com/playlist?list=PLCGwWub36fNzw2POnwmTRq4HU19nvEsUD
+- ⚡ Fun fact: Watch me here:-[Dev2Be](https://www.youtube.com/playlist?list=PLCGwWub36fNzw2POnwmTRq4HU19nvEsUD)
