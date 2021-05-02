@@ -1,8 +1,8 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on Machine Learning.
+- 🌱 I’m currently learning about Azure.
 - 👯 I’m looking to collaborate on events for Microsoft Learn Student Ambassador and also over exciting projects.
 - 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about C, C++, Python, Azure, Visual Studio,Android Studio,.net.
